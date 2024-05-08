@@ -1,0 +1,7 @@
+dist
+dev
+builds
+node_modules
+zips
+/.env
+proy
